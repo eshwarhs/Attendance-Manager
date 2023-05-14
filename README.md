@@ -1,4 +1,4 @@
-### Attendance Manager
+# Attendance Manager
 
 - Attendance Manager is an android based application which helps the students to keep track of their attendance in a particular class. 
 - It facilitates to access the attendance information for a particular class. 
